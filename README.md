@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabelml
-- 💻 I’m currently studying a Master in Computational Social Sciences at the Universidad Carlos III de Madrid.
+- 💻 I have studied a Master in Computational Social Sciences at Universidad Carlos III de Madrid.
 - 📖 I’m learning new things about R programming, data analysis and visualization, statistics and modeling...
 
 
